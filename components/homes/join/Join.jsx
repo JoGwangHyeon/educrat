@@ -7,14 +7,13 @@ export default function Join() {
         <div className="row y-gap-20 justify-between items-center">
           <div className="col-xl-4 col-lg-5">
             <h2 className="text-30 lh-15 text-white">
-              Join more than
-              <span className="text-green-1">8 million learners</span> worldwide
+            ETF는 펀드와 주식의 장점이 결합된 혁신적인 <span className="text-green-1">(INNOVATIVE) </span> 금융상품입니다.
             </h2>
           </div>
 
           <div className="col-auto">
             <Link href="#" className="button -md -green-1 text-dark-1">
-              Start Learning For Free
+              TIFER ETF 바로가기
             </Link>
           </div>
         </div>

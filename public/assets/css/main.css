@@ -15765,6 +15765,15 @@ table.table td {
 #index .text-green-1 {color: #043b72 !important;}
 #index .testimonials.-type-1 .testimonials__title {color: #043b72 !important;}
 #index .counter__number {color: #043b72 !important;}
-#index .featureCard.-type-1 .featureCard__title {}
 
 /* Header GNB End: */
+
+#index .masthead.-type-1 .masthead-image__el1 > img {width: 100%; height: 100%; object-fit: inherit !important;}
+.masthead.-type-1 .masthead-image__el2 > div {right: 0;}
+#index .masthead.-type-1 .masthead-image__el2 > img {width: 200px; height: 225px; object-fit: inherit !important;}
+#index .masthead.-type-1 .masthead-image__el3 > img {width: 235px; height: 255px; object-fit: inherit !important;}
+#index .masthead.-type-1 .masthead-image [class*=masthead-image] .bg-white.img-el.-w-260 {width: 280px;}
+#index .blogCard.-type-1 .blogCard__image img {height: 350px;}
+#index .layout-pt-md.layout-pb-md.bg-purple-1 > .container .y-gap-20 .col-xl-4 .lh-15 {font-size: 20px !important;}
+#index .header .explore-content a .imgs {width: 50px; height: 40px;}
+

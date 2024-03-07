@@ -24,11 +24,11 @@ export default function Courses() {
         <div className="col-auto">
           <div className="sectionTitle ">
             <h2 className="sectionTitle__title sm:text-24">
-              Our Most Popular Courses
+            펀드 인사이트 TV
             </h2>
 
             <p className="sectionTitle__text ">
-              10,000+ unique online course list designs
+            아래 테마 클릭 시 해당 테마별 콘텐츠가 펼쳐집니다
             </p>
           </div>
         </div>

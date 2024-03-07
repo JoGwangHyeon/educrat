@@ -1,7 +1,7 @@
 export const blogs = [
   {
     id: 1,
-    imageSrc: "/assets/img/blog-list/1.png",
+    imageSrc: "/assets/img/new/imgView.jpg",
     category: "Writing",
     title: "Eco-Education in Our Lives: We Can Change the Future",
     date: "January 5, 2023",
@@ -9,7 +9,7 @@ export const blogs = [
   },
   {
     id: 2,
-    imageSrc: "/assets/img/blog-list/2.png",
+    imageSrc: "/assets/img/new/imgView (1).jpg",
     category: "EDUCATION",
     title: "Engendering a culture of professional development",
     date: "February 18, 2023",

@@ -1,9 +1,9 @@
 export const coursesData = [
   {
       "id": 1,
-      "imageSrc": "/assets/img/coursesCards/6.png",
+      "imageSrc": "/assets/img/new/sddefault (1).jpg",
       "authorImageSrc": "/assets/img/general/avatar-1.png",
-      "title": "Learn Figma - UI/UX Design Essential Training",
+      "title": "aaLearn Figma - UI/UX Design Essential Training",
       "rating": 4.3,
       "ratingCount": 1991,
       "lessonCount": 6,
@@ -22,7 +22,7 @@ export const coursesData = [
   },
   {
       "id": 2,
-      "imageSrc": "/assets/img/coursesCards/9.png",
+      "imageSrc": "/assets/img/new/sddefault (2).jpg",
       "authorImageSrc": "/assets/img/general/avatar-1.png",
       "title": "Complete Python Bootcamp From Zero to Hero in Python",
       "rating": 4.7,
@@ -46,7 +46,7 @@ export const coursesData = [
   },
   {
       "id": 3,
-      "imageSrc": "/assets/img/coursesCards/6.png",
+      "imageSrc": "/assets/img/new/sddefault (4).jpg",
       "authorImageSrc": "/assets/img/general/avatar-1.png",
       "title": "Angular - The Complete Guide (2022 Edition)",
       "rating": 4.5,
@@ -67,7 +67,7 @@ export const coursesData = [
   },
   {
       "id": 4,
-      "imageSrc": "/assets/img/coursesCards/1.png",
+      "imageSrc": "/assets/img/new/sddefault (5).jpg",
       "authorImageSrc": "/assets/img/general/avatar-1.png",
       "title": "The Ultimate Drawing Course Beginner to Advanced",
       "rating": 4.2,
@@ -88,7 +88,7 @@ export const coursesData = [
   },
   {
       "id": 5,
-      "imageSrc": "/assets/img/coursesCards/11.png",
+      "imageSrc": "/assets/img/new/sddefault (6).jpg",
       "authorImageSrc": "/assets/img/general/avatar-1.png",
       "title": "Photography Masterclass: A Complete Guide to Photography",
       "rating": 3.8,
@@ -109,7 +109,7 @@ export const coursesData = [
   },
   {
       "id": 6,
-      "imageSrc": "/assets/img/coursesCards/2.png",
+      "imageSrc": "/assets/img/new/sddefault (7).jpg",
       "imageAlt": "image",
       "rating": 4.6,
       "ratingCount": 1991,
@@ -131,7 +131,7 @@ export const coursesData = [
   },
   {
       "id": 7,
-      "imageSrc": "/assets/img/coursesCards/7.png",
+      "imageSrc": "/assets/img/new/sddefault (8).jpg",
       "imageAlt": "image",
       "rating": 3.5,
       "ratingCount": 1991,
@@ -153,7 +153,7 @@ export const coursesData = [
   },
   {
       "id": 8,
-      "imageSrc": "/assets/img/coursesCards/5.png",
+      "imageSrc": "/assets/img/new/sddefault (9).jpg",
       "imageAlt": "image",
       "rating": 4.8,
       "ratingCount": 1991,
@@ -175,7 +175,7 @@ export const coursesData = [
   },
   {
       "id": 9,
-      "imageSrc": "/assets/img/coursesCards/6.png",
+      "imageSrc": "/assets/img/new/sddefault (10).jpg",
       "imageAlt": "image",
       "rating": 3.9,
       "ratingCount": 1991,
@@ -197,7 +197,7 @@ export const coursesData = [
   },
   {
       "id": 10,
-      "imageSrc": "/assets/img/coursesCards/5.png",
+      "imageSrc": "/assets/img/new/sddefault (11).jpg",
       "imageAlt": "image",
       "rating": 4.2,
       "ratingCount": 1991,
@@ -219,7 +219,7 @@ export const coursesData = [
   },
   {
       "id": 11,
-      "imageSrc": "/assets/img/coursesCards/2.png",
+      "imageSrc": "/assets/img/new/sddefault (12).jpg",
       "imageAlt": "image",
       "rating": 5,
       "ratingCount": 1991,
@@ -241,7 +241,7 @@ export const coursesData = [
   },
   {
       "id": 12,
-      "imageSrc": "/assets/img/coursesCards/4.png",
+      "imageSrc": "/assets/img/new/sddefault (13).jpg",
       "imageAlt": "image",
       "rating": 5,
       "ratingCount": 1991,
@@ -263,7 +263,7 @@ export const coursesData = [
   },
   {
       "id": 13,
-      "imageSrc": "/assets/img/coursesCards/10.png",
+      "imageSrc": "/assets/img/new/sddefault (14).jpg",
       "authorImageSrc": "/assets/img/general/avatar-1.png",
       "title": "Advanced JavaScript: Exploring ES6 and Beyond",
       "rating": 4.3,
@@ -284,7 +284,7 @@ export const coursesData = [
   },
   {
       "id": 14,
-      "imageSrc": "/assets/img/coursesCards/8.png",
+      "imageSrc": "/assets/img/new/sddefault (14).jpg",
       "authorImageSrc": "/assets/img/general/avatar-1.png",
       "title": "Python for Data Analysis: NumPy, Pandas, and Matplotlib",
       "rating": 4.7,
@@ -308,7 +308,7 @@ export const coursesData = [
   },
   {
       "id": 15,
-      "imageSrc": "/assets/img/coursesCards/6.png",
+      "imageSrc": "/assets/img/new/sddefault (15).jpg",
       "authorImageSrc": "/assets/img/general/avatar-1.png",
       "title": "Building Responsive Websites with Bootstrap 5",
       "rating": 4.5,
@@ -329,7 +329,7 @@ export const coursesData = [
   },
   {
       "id": 16,
-      "imageSrc": "/assets/img/coursesCards/7.png",
+      "imageSrc": "/assets/img/new/sddefault (16).jpg",
       "authorImageSrc": "/assets/img/general/avatar-1.png",
       "title": "Social Media Marketing: Strategies for Growing Your Audience",
       "rating": 4.2,
@@ -350,7 +350,7 @@ export const coursesData = [
   },
   {
       "id": 17,
-      "imageSrc": "/assets/img/coursesCards/10.png",
+      "imageSrc": "/assets/img/new/sddefault (17).jpg",
       "authorImageSrc": "/assets/img/general/avatar-1.png",
       "title": "Landscape Photography: Capturing Nature's Beauty",
       "rating": 3.8,
@@ -371,7 +371,7 @@ export const coursesData = [
   },
   {
       "id": 18,
-      "imageSrc": "/assets/img/coursesCards/1.png",
+      "imageSrc": "/assets/img/new/sddefault (18).jpg",
       "imageAlt": "image",
       "rating": 4.6,
       "ratingCount": 1991,
@@ -393,7 +393,7 @@ export const coursesData = [
   },
   {
       "id": 19,
-      "imageSrc": "/assets/img/coursesCards/2.png",
+      "imageSrc": "/assets/img/new/sddefault (19).jpg",
       "imageAlt": "image",
       "rating": 3.5,
       "ratingCount": 1991,
@@ -415,7 +415,7 @@ export const coursesData = [
   },
   {
       "id": 20,
-      "imageSrc": "/assets/img/coursesCards/4.png",
+      "imageSrc": "/assets/img/new/sddefault (20).jpg",
       "imageAlt": "image",
       "rating": 4.8,
       "ratingCount": 1991,
@@ -437,7 +437,7 @@ export const coursesData = [
   },
   {
       "id": 21,
-      "imageSrc": "/assets/img/coursesCards/2.png",
+      "imageSrc": "/assets/img/new/sddefault (21).jpg",
       "imageAlt": "image",
       "rating": 3.9,
       "ratingCount": 1991,
@@ -459,7 +459,7 @@ export const coursesData = [
   },
   {
       "id": 22,
-      "imageSrc": "/assets/img/coursesCards/4.png",
+      "imageSrc": "/assets/img/new/sddefault (22).jpg",
       "imageAlt": "image",
       "rating": 4.2,
       "ratingCount": 1991,
@@ -481,7 +481,7 @@ export const coursesData = [
   },
   {
       "id": 23,
-      "imageSrc": "/assets/img/coursesCards/6.png",
+      "imageSrc": "/assets/img/sddefault (23).jpg",
       "imageAlt": "image",
       "rating": 5,
       "ratingCount": 1991,
@@ -503,7 +503,7 @@ export const coursesData = [
   },
   {
       "id": 24,
-      "imageSrc": "/assets/img/coursesCards/6.png",
+      "imageSrc": "/assets/img/new/sddefault (24).jpg",
       "imageAlt": "image",
       "rating": 5,
       "ratingCount": 1991,
@@ -525,7 +525,7 @@ export const coursesData = [
   },
   {
       "id": 25,
-      "imageSrc": "/assets/img/coursesCards/2.png",
+      "imageSrc": "/assets/img/new/sddefault (25).jpg",
       "authorImageSrc": "/assets/img/general/avatar-1.png",
       "title": "Front-End Web Development: HTML, CSS, and JavaScript Fundamentals",
       "rating": 4.3,
@@ -546,7 +546,7 @@ export const coursesData = [
   },
   {
       "id": 26,
-      "imageSrc": "/assets/img/coursesCards/10.png",
+      "imageSrc": "/assets/img/new/sddefault (26).jpg",
       "authorImageSrc": "/assets/img/general/avatar-1.png",
       "title": "Data Visualization with Tableau: Creating Informative Dashboards",
       "rating": 4.7,
@@ -570,7 +570,7 @@ export const coursesData = [
   },
   {
       "id": 27,
-      "imageSrc": "/assets/img/coursesCards/6.png",
+      "imageSrc": "/assets/img/new/sddefault (27).jpg",
       "authorImageSrc": "/assets/img/general/avatar-1.png",
       "title": "Digital Illustration: Bringing Your Imagination to Life",
       "rating": 4.5,
@@ -591,7 +591,7 @@ export const coursesData = [
   },
   {
       "id": 28,
-      "imageSrc": "/assets/img/coursesCards/6.png",
+      "imageSrc": "/assets/img/new/sddefault.jpg",
       "authorImageSrc": "/assets/img/general/avatar-1.png",
       "title": "Java Enterprise Edition (EE): Building Scalable Web Applications",
       "rating": 4.2,

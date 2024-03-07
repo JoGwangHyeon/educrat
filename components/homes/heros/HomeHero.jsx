@@ -10,12 +10,12 @@ import masthead_icon_1 from "../../../public/assets/img/masthead/icons/1.svg";
 import masthead_icon_2 from "../../../public/assets/img/masthead/icons/2.svg";
 import masthead_icon_3 from "../../../public/assets/img/masthead/icons/3.svg";
 // move img and icon
-import move_img_1 from "../../../public/assets/img/masthead/1.png";
+import move_img_1 from "../../../public/assets/img/new/28479_39268_1927.jpg";
 
-import move_img_2 from "../../../public/assets/img/masthead/2.png";
-import move_img_3 from "../../../public/assets/img/masthead/3.png";
-import move_icon_1 from "../../../public/assets/img/masthead/1.svg";
-import move_icon_2 from "../../../public/assets/img/masthead/4.png";
+import move_img_2 from "../../../public/assets/img/new/PYH2024021517580000800_P4.jpg";
+import move_img_3 from "../../../public/assets/img/new/NISI20240216_0001481756_web.jpg";
+import move_icon_1 from "../../../public/assets/img/new/28479_39265_812.jpg";
+import move_icon_2 from "../../../public/assets/img/masthead/1.svg";
 import move_icon_3 from "../../../public/assets/img/masthead/2.svg";
 
 const masthead_info = [
@@ -184,9 +184,9 @@ const HomeHero = () => {
                     </div>
                     <div className="ml-20">
                       <div className="text-orange-1 text-16 fw-500 lh-1">
-                        3.000 +
+                      Park Hyun-joo
                       </div>
-                      <div className="mt-3">Free Courses</div>
+                      <div className="mt-3">대한민국 금융영웅</div>
                     </div>
                   </div>
                 </div>
@@ -206,9 +206,9 @@ const HomeHero = () => {
                     <Image src={move_icon_2} alt="icon" />
                     <div className="ml-20">
                       <div className="text-dark-1 text-16 fw-500 lh-1">
-                        Ali Tufan
+                      Reporter Song Eun-kyung
                       </div>
-                      <div className="mt-3">UX/UI Designer</div>
+                      <div className="mt-3">블룸버그와 전략적 업무협약</div>
                       <div className="d-flex x-gap-5 mt-3">
                         {starts.map((start, index) => (
                           <div key={index}>
@@ -243,9 +243,9 @@ const HomeHero = () => {
                     </div>
                     <div className="">
                       <div className="text-purple-1 text-16 fw-500 lh-1">
-                        Congrats!
+                      Reporter Kang Soo-yoon
                       </div>
-                      <div className="mt-3">Your Admission Completed</div>
+                      <div className="mt-3">국내 최저PBR ETF '밸류업 ETF'</div>
                     </div>
                   </div>
                 </div>

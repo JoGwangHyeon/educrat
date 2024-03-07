@@ -12,7 +12,7 @@ export default function WhyCourse() {
                 data-aos="fade-up"
                 data-aos-duration={800}
               >
-                Why learn with our courses?
+                연금 대표 미래에셋 TDF
               </h2>
 
               <p

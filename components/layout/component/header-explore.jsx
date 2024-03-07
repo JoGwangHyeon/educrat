@@ -27,32 +27,33 @@ export const HeaderExplore = ({ allClasses }) => {
               href="#"
               className="d-flex items-center justify-between text-dark-1"
             >
-              Architecture<div className="icon-chevron-right text-11"></div>
+              <img class="imgs" src="/assets/img/new/img_flag_kr.png" alt="한국" />
+              한국<div className="icon-chevron-right text-11"></div>
             </Link>
             <div className="explore__subnav rounded-8">
               <Link className="text-dark-1" href={`/courses/6`}>
-                Web Design
+                미래에셋그룹
               </Link>
               <Link className="text-dark-1" href={`/courses/6`}>
-                Graphic Design
+                미래에셋증권
               </Link>
               <Link className="text-dark-1" href={`/courses/6`}>
-                Design Tools
+                미래에셋생명
               </Link>
               <Link className="text-dark-1" href={`/courses/6`}>
-                User Experience Design
+              미래에셋자산운용
               </Link>
               <Link className="text-dark-1" href={`/courses/6`}>
-                Game Design
+              미래에셋자산운용
               </Link>
               <Link className="text-dark-1" href={`/courses/6`}>
-                3D & Animation
+              미래에셋벤처투자
               </Link>
               <Link className="text-dark-1" href={`/courses/6`}>
-                Fashion Design
+              미래에셋금융서비스
               </Link>
               <Link className="text-dark-1" href={`/courses/6`}>
-                Interior Design
+              미래에셋컨설팅
               </Link>
             </div>
           </div>

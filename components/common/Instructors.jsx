@@ -14,11 +14,11 @@ export default function Instructors({ backgroundColor }) {
           <div className="col-lg-6">
             <div className="sectionTitle ">
               <h2 className="sectionTitle__title " data-aos="fade-left">
-                Learn from the best instructors
+              투자와연금센터 자료실
               </h2>
 
               <p className="sectionTitle__text " data-aos="fade-left">
-                Lorem ipsum dolor sit amet, consectetur.
+              미래에셋투자와연금센터에서 제공하는 투자∙연금관련 콘텐츠입니다.
               </p>
             </div>
           </div>

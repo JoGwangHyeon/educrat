@@ -37,7 +37,7 @@ export default function Header() {
                     "header__explore text-green-1 ml-60 xl:ml-30 xl:d-none"
                   }
                 />
-                {header explore end */}
+                { header explore end */}
               </div>
             </div>
 
